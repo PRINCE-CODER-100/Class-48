@@ -1,0 +1,88 @@
+[
+  {
+    "id": "aad1445e-565b-425c-9821-6bc1f64b14e9",
+    "data": [
+      {
+        "text": "Biriyani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c939483-fd70-436a-8909-2cbf11ac8a1d",
+    "data": [
+      {
+        "text": "Meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b22bb91-4b62-4d41-a13f-a6dc8a4744b7",
+    "data": [
+      {
+        "text": "Chappati and vegetable ",
+        "userDefined": false
+      },
+      {
+        "text": "curry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52e53a75-9714-4835-b7a9-e9ceefc2f0fe",
+    "data": [
+      {
+        "text": "Glab",
+        "userDefined": false
+      },
+      {
+        "text": " Jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1bb9a13-26a1-4902-82eb-8bf9586259ca",
+    "data": [
+      {
+        "text": "Paneer ticca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdaf9a72-83a4-4756-b957-4a0fc1d072fa",
+    "data": [
+      {
+        "text": "Vegetable samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
